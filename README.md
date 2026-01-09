@@ -50,7 +50,8 @@
 6.  **Конец**.
 
 ### Блок-схема
-`![Блок-схема алгоритма](flowchart.png)`
+<img width="423" height="875" alt="Снимок экрана 2026-01-09 в 20 49 05" src="https://github.com/user-attachments/assets/ad983bfb-35d3-47a6-9a69-15e45d332fd0" />
+
 
 ---
 
